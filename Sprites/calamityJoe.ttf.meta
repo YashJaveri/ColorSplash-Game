@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17f3a0ad27516d34c8ab9388a21141c9
+timeCreated: 1485789191
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: calamityJoe
+  fontNames:
+  - calamityJoe
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

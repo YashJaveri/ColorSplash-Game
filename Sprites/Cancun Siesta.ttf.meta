@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c97cae8d77becbb459df3042de92fdb5
+timeCreated: 1485789191
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cancun Siesta
+  fontNames:
+  - Cancun Siesta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
